@@ -3,6 +3,7 @@
 ## Introduction
 
 ### Purpose
+Elm needs a language server to support common editor tooling. This can in greatly improve editor support and tooling.
 [Discuss here #2](../../issues/2)
 This document describes the Elm Language Server (ElmLS). Elm Language Server designed to service IDEs and other tools for the [Elm language](http://elm-lang.org/). It should offer an access point to compilation and APIs for getting information about a program.
 
