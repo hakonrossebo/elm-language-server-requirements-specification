@@ -3,6 +3,7 @@
 ## Introduction
 
 ### Purpose
+[Discuss here #2](../../issues/2)
 This document describes the Elm Language Server (ElmLS). Elm Language Server designed to service IDEs and other tools for the [Elm language](http://elm-lang.org/). It should offer an access point to compilation and APIs for getting information about a program.
 
 This document and repository is intended to help as a working document to collect and coordinate requirements and effort to implement the Elm Language Server.
@@ -48,6 +49,7 @@ Many other languages already benefit from having a language server implementatio
 Many editors support the Language Server Protocol. This protocol is a set of features/APIs that a language server can expose as part of it's features. An important issue to be resolved here is whether or not ElmLS should implement LSP.
 
 ### Definitions
+Discuss here [#6](../../issues/6)
 * LSP - Language Server Protocol
 * ElmLS - Elm Language Server (This name can be discussed)
 
@@ -58,11 +60,10 @@ Many editors support the Language Server Protocol. This protocol is a set of fea
 * [Other implementations - Language server protocol implementations and editor support](https://github.com/Microsoft/language-server-protocol/wiki/Protocol-Implementations)
 
 ### Language Server Protocol
+Discuss here [#3](../../issues/3)
 The Language Server Protocol [(introduced in this blog post)](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol)
 is used between a tool (the client) and the language server to integrate features used by the client. The protocol is based on  [JSON-RPC v2.0](http://www.jsonrpc.org/specification)
 ![](images/lsp-interaction-diagram.png)
-
-Discuss here [#3](../../issues/3)
 
 * [Main page for Language Server Protocol:](https://github.com/Microsoft/language-server-protocol)
 * [Language Server Protocol/API](https://github.com/Microsoft/language-server-protocol)
@@ -80,9 +81,15 @@ This is the actual requirements specification.
 ### Language server
 #### Plugin interfaces
 Should cover any interfaces to plugins.
+[Create a new issue to discuss this item:](https://github.com/hakonrossebo/elm-language-server-requirements-specification/issues/new)
+
 #### Other interfaces
 Any other interfaces to elm tooling.
+[Create a new issue to discuss this item:](https://github.com/hakonrossebo/elm-language-server-requirements-specification/issues/new)
+
 ### Design constraints
+[Create a new issue to discuss this item:](https://github.com/hakonrossebo/elm-language-server-requirements-specification/issues/new)
+
 ### Language server functions
 
 This is just a temporary list. Please discuss main features here [#1](../../issues/1)
@@ -96,9 +103,16 @@ This is just a temporary list. Please discuss main features here [#1](../../issu
 
 
 ### User/Plugin/Editor characteristics
+[Create a new issue to discuss this item:](https://github.com/hakonrossebo/elm-language-server-requirements-specification/issues/new)
+
 ### Constraints, assumptions and dependencies
+[Create a new issue to discuss this item:](https://github.com/hakonrossebo/elm-language-server-requirements-specification/issues/new)
+
 ## Specific requirements
+[Create a new issue to discuss this item:](https://github.com/hakonrossebo/elm-language-server-requirements-specification/issues/new)
+
 ### Functional requirements - detailed
+[Create new issues for each main requirement here:](https://github.com/hakonrossebo/elm-language-server-requirements-specification/issues/new)
 
 This is just a temporary placeholder. Please discuss each separate issue and then we could conclude details here later.
 * Jump to definition
@@ -115,13 +129,15 @@ This is just a temporary placeholder. Please discuss each separate issue and the
   * lift to new let
   * lift to existing let
   * lift to top-level
+
 ### Architecture
-Discussed in issue #0
+Discuss here [#4](../../issues/4)
 
 ### Technical requirements
-Discussed in issue #0
+Discuss here [#5](../../issues/5)
 
 ### Software system attributes
+[Create a new issue to discuss this item:](https://github.com/hakonrossebo/elm-language-server-requirements-specification/issues/new)
 * Reliability
 * Availability
 * Security
