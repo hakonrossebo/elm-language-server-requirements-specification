@@ -20,11 +20,13 @@ There are many different types of requirements, and this document will try to ca
 * Editor plugin authors
 
 ### Scope
+[Discuss here #7](../../issues/7)
 * Create a shared tool to be used by all editors and tools
 * Primarily, this is a requirements document, leaving implementation details for later.
 * Describe benefits, objectives, what the language server will (not) do.
 
 ### History
+[Discuss here #8](../../issues/8)
 The elm-oracle implements a core of features, but since it was written, editor plugin authors have figured out how to support a larger set of features.
 
 There has been some efforts and discussions earlier related to creating language server.
@@ -37,6 +39,7 @@ There has been some efforts and discussions earlier related to creating language
 * Has there been any discussion on #gsoc Slack on this issue?
 
 ### Motivation
+[Discuss here #9](../../issues/9)
 Many editors have Elm support: Atom, Brackets, Emacs, IntelliJ, Light Table, Sublime Text, Vim, and VS Code.
 
 They have many overlapping features, and in many cases, they are implemented independently. It would be great to create a binary that provided as many of these features as possible. That way editor authors have an easier life and we only need to get it right once.
@@ -54,6 +57,7 @@ Discuss here [#6](../../issues/6)
 * ElmLS - Elm Language Server (This name can be discussed)
 
 ### Alternatives and existing implementations/references
+Discuss here [#10](../../issues/10)
 * [Haskell IDE Engine](https://github.com/haskell/haskell-ide-engine)
 * [Rust Language server](https://github.com/rust-lang-nursery/rls)
 * [Python Language server](https://github.com/palantir/python-language-server)
@@ -145,6 +149,7 @@ Discuss here [#5](../../issues/5)
 * Maintainability
 * Versioning
 ## Planning / Incremental approach
+Discuss here [#2](../../issues/2)
 To avoid waiting too long for a final solution, we should aim to have an incremental approach, delivering value early.
 ## Other/Discussion
 There will be other discussions on topics not mentioned here, also on implementation. Please create any issues and reference them here.
