@@ -7,6 +7,11 @@ This document describes the Elm Language Server (ElmLS). Elm Language Server des
 
 This document and repository is intended to help as a working document to collect and coordinate requirements and effort to implement the Elm Language Server.
 
+I plan to have this document as a main working document, but that discussion is discussed in github issues in this repository and concluded here. The requirements are separated for functionality/architecture/technical etc, but we can work out this separation together.
+I will accept PR's, but I will also appreciate and accept any main collaborators to have full access to this repository.
+Please discuss strategy and how to work in this document here: [#2](../../issues/2)
+
+
 There are many different types of requirements, and this document will try to categorize requirements like this:![this](images/requirement-types.png)
 
 ### Intended audience
@@ -57,6 +62,8 @@ The Language Server Protocol [(introduced in this blog post)](https://code.visua
 is used between a tool (the client) and the language server to integrate features used by the client. The protocol is based on  [JSON-RPC v2.0](http://www.jsonrpc.org/specification)
 ![](images/lsp-interaction-diagram.png)
 
+Discuss here [#3](../../issues/3)
+
 * [Main page for Language Server Protocol:](https://github.com/Microsoft/language-server-protocol)
 * [Language Server Protocol/API](https://github.com/Microsoft/language-server-protocol)
 
@@ -68,9 +75,7 @@ is used between a tool (the client) and the language server to integrate feature
 * [Language Server Protocol](https://github.com/Microsoft/language-server-protocol)
 
 ### Overview
-This is the actual requirements specification. I plan to have this document as a main working document, but that discussion is discussed in github issues in this repository and concluded here. The requirements are separated for functionality/architecture/technical etc, but we can work out this separation together.
-I will accept PR's, but I will also appreciate and accept any main collaborators to have full access to this repository.
-
+This is the actual requirements specification.
 ## Overall description
 ### Language server
 #### Plugin interfaces
@@ -80,7 +85,7 @@ Any other interfaces to elm tooling.
 ### Design constraints
 ### Language server functions
 
-This is just a temporary placeholder. Please discuss main features [here #1](../../issues/1)
+This is just a temporary list. Please discuss main features here [#1](../../issues/1)
 * Jump to definition
 * Find/highlight all references to an item
 * Types on hover
@@ -88,6 +93,7 @@ This is just a temporary placeholder. Please discuss main features [here #1](../
 * Inline Errors
 * Show compilation errors and warnings, updated as the user types
 * Refactoring
+
 
 ### User/Plugin/Editor characteristics
 ### Constraints, assumptions and dependencies
