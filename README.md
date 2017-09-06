@@ -80,7 +80,7 @@ Any other interfaces to elm tooling.
 ### Design constraints
 ### Language server functions
 
-This is just a temporary placeholder. Please discuss main features here#1
+This is just a temporary placeholder. Please discuss main features here GH-1
 * Jump to definition
 * Find/highlight all references to an item
 * Types on hover
