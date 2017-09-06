@@ -4,14 +4,15 @@
 
 ### Purpose
 Elm needs a language server to support common editor tooling. This can greatly improve editor support and tooling features.
-[Discuss here #2](../../issues/2)
+
+Discuss this topic here [issue #2](../../issues/2)
 This document describes the Elm Language Server (ElmLS). Elm Language Server designed to service IDEs and other tools for the [Elm language](http://elm-lang.org/). It should offer an access point to compilation and APIs for getting information about a program.
 
 This document and repository is intended to help as a working document to collect and coordinate requirements and effort to implement the Elm Language Server.
 
 I plan to have this document as a main working document, but that discussion is discussed in github issues in this repository and concluded here. The requirements are separated for functionality/architecture/technical etc, but we can work out this separation together.
 I will accept PR's, but I will also appreciate and accept any main collaborators to have full access to this repository.
-Please discuss strategy and how to work in this document here: [#2](../../issues/2)
+Please discuss strategy and how to work in this document here: [issue #2](../../issues/2)
 
 
 There are many different types of requirements, and this document will try to categorize requirements like this:![this](images/requirement-types.png)
@@ -72,6 +73,11 @@ is used between a tool (the client) and the language server to integrate feature
 
 * [Main page for Language Server Protocol:](https://github.com/Microsoft/language-server-protocol)
 * [Language Server Protocol/API](https://github.com/Microsoft/language-server-protocol)
+
+Language Server Protocol videos
+* [Learning the Language Server protocol](https://www.youtube.com/watch?v=CJQqDdKl5TE)
+* [Language Server Protocol - Why the hype?](https://www.youtube.com/watch?v=VfNQLjnS3QQ)
+* [Language Server Protocol explained](https://www.youtube.com/watch?v=2GqpdfIAhz8)
 
 ### References
 * [Language server protocol implementations and editor support](https://github.com/Microsoft/language-server-protocol/wiki/Protocol-Implementations)
