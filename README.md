@@ -12,3 +12,7 @@ I will accept PR's, but I will also appreciate and accept any main collaborators
 Please discuss strategy and how to work in this document here: [issue #2](../../issues/2)
 
 [Google Docs document here: -feel free to edit and add suggestions / comments](https://docs.google.com/document/d/1ETeZeN17hqM4yui4iqBv1jwO8HryDZyel2kdcxTCGGA/edit?usp=sharing)
+
+There is also a separate Elm Slack channel #elm-language-server we can use for discussions and questions.
+
+Join the Elm Slack [here if you have not done so already](https://elmlang.herokuapp.com/)
