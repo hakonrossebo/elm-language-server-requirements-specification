@@ -33,6 +33,8 @@ The elm-oracle implements a core of features, but since it was written, editor p
 
 There has been some efforts and discussions earlier related to creating language server.
 * [Discussion - joining forces to create language server](https://github.com/Krzysztof-Cieslak/vscode-elm/issues/137)
+* [Elm discuss - Elm tooling 2 - Elm Tooling server](https://groups.google.com/forum/#!searchin/elm-dev/language$20server%7Csort:relevance/elm-dev/uDGGTEh8ZYg/MNO19dYDAwAJ)
+* [Elm tooling 1 - Coordinating AST efforts](https://groups.google.com/forum/#!msg/elm-dev/QPLPd8q1Od0/CFPIdPb1AgAJ)
 * [Elm discuss - Evolving elm-reactor](https://groups.google.com/forum/#!topic/elm-dev/aDWFBg72Wt4)
 * [Elm-lang projects - Centralizing Editor Features](https://github.com/elm-lang/projects/wiki/Centralizing-Editor-Features)
 * [Elm-lang projects - Editor features](https://github.com/elm-lang/projects/wiki/Editor-Features)
@@ -143,6 +145,15 @@ This is just a temporary placeholder. Please discuss each separate issue and the
   * lift to new let
   * lift to existing let
   * lift to top-level
+
+Items from elm-discuss:
+* From Evan Czaplicki: elm-develop - [link](https://groups.google.com/d/msg/elm-dev/aDWFBg72Wt4/rF2h9-6nBAAJ)  What if it had special endpoints for editors?
+* From Richard Feldman: - [link](https://groups.google.com/d/msg/elm-dev/aDWFBg72Wt4/5Lg_8p21BAAJ) A protocol editors could use to subscribe to information on builds that were kicked off by other tools.
+* From Richard Feldman: - [link](https://groups.google.com/d/msg/elm-dev/aDWFBg72Wt4/mO3tTkW5BAAJ) Tell me all the dependencies.
+* From Luke Westby - [link](https://groups.google.com/d/msg/elm-dev/aDWFBg72Wt4/0ZUKGOq7CQAJ) Information about a module that you might get today by manually parsing the .elmi file today
+* From Magnus Rundberget -[link](https://groups.google.com/d/msg/elm-dev/uDGGTEh8ZYg/MNO19dYDAwAJ) Elm Tooling
+
+
 
 ### Architecture
 Discuss here [#4](../../issues/4)
