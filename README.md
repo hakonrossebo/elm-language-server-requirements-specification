@@ -64,6 +64,7 @@ Discuss here [#10](../../issues/10)
 * [Rust Language server](https://github.com/rust-lang-nursery/rls)
 * [Python Language server](https://github.com/palantir/python-language-server)
 * [Other implementations - Language server protocol implementations and editor support](https://github.com/Microsoft/language-server-protocol/wiki/Protocol-Implementations)
+* [Rust requirements document for the language server -with implementation discussion](https://github.com/rust-lang/rfcs/blob/master/text/1317-ide.md)
 
 ### Language Server Protocol
 Discuss here [#3](../../issues/3)
