@@ -90,6 +90,7 @@ Language Server Protocol videos
 * [Language server protocol blog post](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol)
 * [Language Server Protocol](https://github.com/Microsoft/language-server-protocol)
 * [Community site to track development process for LSP servers and clients](http://langserver.org/)
+* [Video - Magnus Rundberget - Elm Editor Support - Perspectives From an Editor Hacker | OsloElmDay 2017](https://www.youtube.com/watch?v=ExGkdmey0n4)
 
 ### Overview
 This is the actual requirements specification.
