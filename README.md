@@ -73,6 +73,7 @@ is used between a tool (the client) and the language server to integrate feature
 
 * [Main page for Language Server Protocol:](https://github.com/Microsoft/language-server-protocol)
 * [Language Server Protocol/API](https://github.com/Microsoft/language-server-protocol)
+* [Community site to track development process for LSP servers and clients](http://langserver.org/)
 
 Language Server Protocol videos
 * [Learning the Language Server protocol](https://www.youtube.com/watch?v=CJQqDdKl5TE)
@@ -85,6 +86,7 @@ Language Server Protocol videos
 * [Language Server Protocol - protocol details](https://github.com/Microsoft/language-server-protocol/blob/master/protocol.md)
 * [Language server protocol blog post](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol)
 * [Language Server Protocol](https://github.com/Microsoft/language-server-protocol)
+* [Community site to track development process for LSP servers and clients](http://langserver.org/)
 
 ### Overview
 This is the actual requirements specification.
