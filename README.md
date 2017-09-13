@@ -12,6 +12,6 @@ There is also a separate Elm Slack channel #elm-language-server we can use for d
 Links:
 * [FAQ](FAQ.md)
 * [Links and references to everything relevant to this project](REFERENCES.md)
-* [Please contribute! Guidelines here](CONTRIBUTE.md)
+* [Please contribute! Guidelines here](CONTRIBUTING.md)
 * [The requirements document on Google Docs:](https://docs.google.com/document/d/1ETeZeN17hqM4yui4iqBv1jwO8HryDZyel2kdcxTCGGA/edit?usp=sharing)
 * Join the Elm Slack [here if you have not done so already](https://elmlang.herokuapp.com/)
