@@ -7,8 +7,11 @@ This repository and [document](https://docs.google.com/document/d/1ETeZeN17hqM4y
 
 This repository and Google Document is intended to help as a working document to collect and coordinate requirements and effort to implement the Elm Language Server.
 
-[Google Docs document here: -feel free to edit and add suggestions / comments](https://docs.google.com/document/d/1ETeZeN17hqM4yui4iqBv1jwO8HryDZyel2kdcxTCGGA/edit?usp=sharing)
-
 There is also a separate Elm Slack channel #elm-language-server we can use for discussions and questions.
 
-Join the Elm Slack [here if you have not done so already](https://elmlang.herokuapp.com/)
+Links:
+* [FAQ](FAQ.md)
+* [Links and references to everything relevant to this project](REFERENCES.md)
+* [Please contribute! Guidelines here](CONTRIBUTE.md)
+* [The requirements document on Google Docs:](https://docs.google.com/document/d/1ETeZeN17hqM4yui4iqBv1jwO8HryDZyel2kdcxTCGGA/edit?usp=sharing)
+* Join the Elm Slack [here if you have not done so already](https://elmlang.herokuapp.com/)
