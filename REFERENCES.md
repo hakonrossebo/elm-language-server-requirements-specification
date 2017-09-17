@@ -2,8 +2,29 @@
 
 ### General
 * [Elm Editor Support feature comparision](https://docs.google.com/spreadsheets/d/1JJ21llMKaIYzy449ILvyzQCCmoapJxbVGr-FyRUgKCw/edit#gid=0)
-* [Elm-oracle](https://github.com/ElmCast/elm-oracle)
-* [Elm-format](https://github.com/avh4/elm-format)
+
+### Existing tool support in Elm
+Official
+* Elm-platform - https://github.com/elm-lang/elm-platform
+* Elm-compiler - https://github.com/elm-lang/elm-compiler
+* Elm-make - https://github.com/elm-lang/elm-make
+* Elm-reactor - https://github.com/elm-lang/elm-reactor
+* Elm-repl - https://github.com/elm-lang/elm-repl
+* Elm-package - https://github.com/elm-lang/elm-package
+
+Third-party
+* Elm-oracle - https://github.com/ElmCast/elm-oracle
+* Elm-format - https://github.com/avh4/elm-format
+* Elm-analyse - https://github.com/stil4m/elm-analyse
+* Json-to-elm - https://noredink.github.io/json-to-elm/
+* Elm-version-manager - https://github.com/mattludwigs/elm-version-manager
+* Create-elm-app - https://github.com/halfzebra/create-elm-app
+* Elm-new - https://github.com/simonewebdesign/elm-new
+* Elm-live - https://github.com/tomekwi/elm-live
+* Elm-webpack-starter - https://github.com/elm-community/elm-webpack-starter
+* Elm-search - http://klaftertief.github.io/elm-search/
+* Ellie - https://ellie-app.com
+
 
 ### Alternatives and existing implementations/references
 * [Haskell IDE Engine](https://github.com/haskell/haskell-ide-engine)
