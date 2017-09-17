@@ -15,6 +15,7 @@ Official
 Third-party
 * Elm-oracle - https://github.com/ElmCast/elm-oracle
 * Elm-format - https://github.com/avh4/elm-format
+* Elm-test - https://github.com/elm-community/elm-test
 * Elm-analyse - https://github.com/stil4m/elm-analyse
 * Json-to-elm - https://noredink.github.io/json-to-elm/
 * Elm-version-manager - https://github.com/mattludwigs/elm-version-manager
